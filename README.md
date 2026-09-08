@@ -1,3 +1,5 @@
+The following is a summary of the tasks and requirements for setting up a reproducible workflow in a repository, along with the necessary components and considerations for FAIR data principles. The environment.yml file specifies the dependencies and version pinning for the workflow, ensuring that others can replicate the environment accurately. The notebook contains descriptive text, code cells, and output cells.
+
 Tasks:
 Set up a reproducible workflow containing at least the following:
 - Descriptive text and explanations, e.g. markdown. This should detail how others can use and run your workflow. Specify requirements. Equations using LaTeX math are encouraged.
